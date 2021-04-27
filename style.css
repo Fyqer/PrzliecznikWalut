@@ -1,0 +1,87 @@
+﻿html,body{
+	font-family: "sans-serif normal";
+  background-image: url("euro.jpg");
+    background-repeat: no-repeat;
+  background-size: 100%;
+color :#0100;
+margin: 0;
+padding: 0 ;
+text-align:center;}
+
+
+
+input[type=number] {
+  width: 50%;
+  font-size: large;
+  padding: 16px 20px;
+  border: 2px solid #73AD21;
+  margin: 8px 0;
+  border: 2px solid red;
+ border-radius: 25px;
+   background-color: #f1f1f1;
+}
+input[type=button] {
+  width: 50%;
+  opacity: 1;
+ padding: 16px 20px;
+  border: 2px solid #73AD21;
+  margin: 8px 0;
+  border: 2px solid #73AD21;
+  border-radius: 4px;
+   background-color: green;
+
+}
+h2{
+	font-size = 100px;
+}
+select {
+	top : 200px;
+  width: 75%;
+  padding: 16px 20px;
+  border: 2px solid #73AD21;
+  border-radius: 25px;
+  background-color: #f1f1f1;
+}
+
+#main{
+	font-family: "sans-serif normal";
+	border-radius: 25px;
+ border: 2px solid #73AD21;
+padding : 50px;
+width:780px;
+
+height: 630px;
+margin-left:auto;
+margin-right:auto;
+text-align: top;
+background-color : white;
+ opacity: 0.90;
+ 
+}
+ 
+ #TRESC{
+	 font-family: "sans-serif normal";
+	border: 2px solid white;
+	border-radius: 25px;
+	opacity: 0.90;
+	
+width:780px;
+min-height: 550px;
+height:500px;
+float :left;
+background-color : purple;
+}
+ 
+#STOPKA{
+	 font-family: "sans-serif normal";
+	clear : both;
+	opacity: 0.90;
+	border: 2px solid white;
+border-radius: 25px;
+
+  bottom: 10px;
+width:100%;
+height:40px;
+background-color: #888;
+
+}
